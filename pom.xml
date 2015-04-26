@@ -8,10 +8,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.cytoscape.myapp</groupId>
-	<artifactId>my-cyaction-app</artifactId>
+	<artifactId>cyclops</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-			<name>cytopenphacts</name>
+			<name>Cytoscape Client Library for Open PHACTS</name>
 	
 	<packaging>bundle</packaging>
 
